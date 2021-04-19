@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/chloew96/happy-birthday-anna.git/static/css/main.982366f3.chunk.css",
+    "main.js": "/chloew96/happy-birthday-anna.git/static/js/main.582347f5.chunk.js",
+    "main.js.map": "/chloew96/happy-birthday-anna.git/static/js/main.582347f5.chunk.js.map",
+    "runtime-main.js": "/chloew96/happy-birthday-anna.git/static/js/runtime-main.3076eaf7.js",
+    "runtime-main.js.map": "/chloew96/happy-birthday-anna.git/static/js/runtime-main.3076eaf7.js.map",
+    "static/js/2.cd6d399f.chunk.js": "/chloew96/happy-birthday-anna.git/static/js/2.cd6d399f.chunk.js",
+    "static/js/2.cd6d399f.chunk.js.map": "/chloew96/happy-birthday-anna.git/static/js/2.cd6d399f.chunk.js.map",
+    "static/js/3.a9f1fc5b.chunk.js": "/chloew96/happy-birthday-anna.git/static/js/3.a9f1fc5b.chunk.js",
+    "static/js/3.a9f1fc5b.chunk.js.map": "/chloew96/happy-birthday-anna.git/static/js/3.a9f1fc5b.chunk.js.map",
+    "index.html": "/chloew96/happy-birthday-anna.git/index.html",
+    "static/css/main.982366f3.chunk.css.map": "/chloew96/happy-birthday-anna.git/static/css/main.982366f3.chunk.css.map",
+    "static/js/2.cd6d399f.chunk.js.LICENSE.txt": "/chloew96/happy-birthday-anna.git/static/js/2.cd6d399f.chunk.js.LICENSE.txt",
+    "static/media/card.a7eb5e69.png": "/chloew96/happy-birthday-anna.git/static/media/card.a7eb5e69.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3076eaf7.js",
+    "static/js/2.cd6d399f.chunk.js",
+    "static/css/main.982366f3.chunk.css",
+    "static/js/main.582347f5.chunk.js"
+  ]
+}
