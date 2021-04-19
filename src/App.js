@@ -1,23 +1,17 @@
-import logo from './logo.svg';
 import './App.css';
+import Card from './images/card.png';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div className='date'>
+        0416/2021
+      </div>
+      <div className="app-container">
+        ✨🎊 Happy birthday Anna 🎉✨
+        <img src={Card} className="card"/>
+      </div>
+      
     </div>
   );
 }
